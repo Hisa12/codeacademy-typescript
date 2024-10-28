@@ -1,1 +1,1 @@
-# codeacademy-typescript
+Training typescript
